@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nama": "Muhammad Alvito Madisyahputra",
+        "npm": "10121784",
+        "jurusan": "Sistem Informasi",
+        "email": "muhammadalvito23@gmail.com"
+    },
+    {
+        "id": 2,
+        "nama": "Adhimas Abiyasa Pradipta",
+        "npm": "10121357",
+        "jurusan": "Sistem Informasi",
+        "email": "abiiy203@gmail.com"
+    },
+    {
+        "id": 3,
+        "nama": "Viero Virgiawan Andromedo",
+        "npm": "10114287",
+        "jurusan": "Sistem Informasi",
+        "email": "viero52@gmail.com"
+    },
+    {
+        "id": 4,
+        "nama": "Silvester Bambang Priambodo",
+        "npm": "10125785",
+        "jurusan": "Sistem Informasi",
+        "email": "silvester311@gmail.com"
+    },
+    {
+        "id": 5,
+        "nama": "Maulana Yusuf",
+        "npm": "10124052",
+        "jurusan": "Sistem Informasi",
+        "email": "ucup405@gmail.com"
+    }
+]
